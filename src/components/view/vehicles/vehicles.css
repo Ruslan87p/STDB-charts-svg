@@ -1,0 +1,14 @@
+.vehicle-title {
+    color: white;
+    min-width: 150px;
+    max-width: 150px;
+    overflow-wrap: break-word;
+}
+.vehicle {
+    display: flex;
+    flex-direction: row;
+}
+.vehicle-passengers {
+    color: whitesmoke;
+    min-width: 100px;
+}
